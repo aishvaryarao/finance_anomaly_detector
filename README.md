@@ -167,9 +167,7 @@ The dashboard provides:
 
 * PDF bank statement support
 * User authentication system
-* Advanced anomaly detection models
 * Export reports to PDF and Excel
-* Multi-user support
 * Cloud deployment
 
 ## Author
